@@ -3,6 +3,19 @@
 
     <!-- stop watch page -->
     <string name="chrono_title">Chronomètres</string>
+    <string name="chrono_clolumn">Temps</string>
+    <string name="hour_column">Heure</string>
+
+    <!-- data -->
+    <string name="glasses_amount">4</string>
+    <string name="chrono1">34s</string>
+    <string name="heure1">21:36</string>
+    <string name="chrono2">20s</string>
+    <string name="heure2">21:49</string>
+    <string name="chrono3">43s</string>
+    <string name="heure3">22:02</string>
+    <string name="chrono4">09s</string>
+    <string name="heure4">22:23</string>
 
     <!-- statistics page -->
     <string name="stats_title">Statistiques</string>
