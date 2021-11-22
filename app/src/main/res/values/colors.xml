@@ -9,11 +9,21 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Personalized colors -->
+
+    <!-- background -->
     <color name="background_color">	#fff4d3</color>
+
+    <!-- font -->
     <color name="font_light_color">#8a8888</color>
     <color name="font_dark_color">#585858</color>
+
+    <!-- default element -->
     <color name="element_color">#fce5a0</color>
-    <color name="element_fancy_color">#78c058</color>
-    <color name="element_fancyg_color">#78c058</color>
+
+    <!-- divers -->
+    <color name="light_green_pastel">#89CA6C</color>
+    <color name="dark_green_pastel">#438A46</color>
+    <color name="red_pastel">#C56E6E</color>
+
 
 </resources>
